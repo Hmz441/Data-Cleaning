@@ -1,15 +1,14 @@
  Netflix Data Analysis Project
 
-This project explores and analyzes a real-world Netflix dataset from Kaggle using Python, Pandas, and Matplotlib.  
-The goal was to develop practical data analysis and visualization skills while working with a large dataset of Netflix titles.
+This project explores and analyzes a real-world Netflix dataset from Kaggle using Python  
+The goal was to develop practical data analysis visualization skills while working with a large dataset of Netflix titles.
 
 ---
 
  Overview
 This project:
 - Cleans the dataset by removing duplicates and handling missing values  
-- Analyzes content trends such as the number of Movies vs TV Shows  
-- Visualizes patterns in genre popularity, release years, and country-based production  
+- Analyzes content trends such as the number of Movies vs TV Shows    
 - Demonstrates skills in Python programming, data cleaning, and exploratory data analysis (EDA)
 
 ---
@@ -25,7 +24,7 @@ This project:
  Technologies Used
 - Python 3 
 - Pandas – for data loading, cleaning, and manipulation  
-- Matplotlib – for data visualization  
+  
 
 ---
 
